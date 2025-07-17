@@ -1,0 +1,1 @@
+/usr/bin/g++ -O2 -ftree-vectorize -fopt-info-vec-optimized -g CMakeFiles/kmeans_test.dir/__/src/kmeans.c.o CMakeFiles/kmeans_test.dir/__/src/common.c.o CMakeFiles/kmeans_test.dir/kmeans_test.cpp.o -o kmeans_test  ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgtest.a 

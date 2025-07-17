@@ -1,0 +1,188 @@
+[
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/third_party/googletest/googlemock",
+  "command": "/usr/bin/g++  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googlemock/include -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googlemock -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest -g -std=c++20 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googlemock/src/gmock-all.cc",
+  "output": "third_party/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/third_party/googletest/googlemock",
+  "command": "/usr/bin/g++  -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googlemock/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googlemock -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest -g -std=c++20 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googlemock/src/gmock_main.cc",
+  "output": "third_party/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/third_party/googletest/googletest",
+  "command": "/usr/bin/g++  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/include -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest -g -std=c++20 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/src/gtest-all.cc",
+  "output": "third_party/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/third_party/googletest/googletest",
+  "command": "/usr/bin/g++  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest -g -std=c++20 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/src/gtest_main.cc",
+  "output": "third_party/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/src",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -g -o CMakeFiles/kmeans_seq.dir/main.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/main.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/main.c",
+  "output": "src/CMakeFiles/kmeans_seq.dir/main.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/src",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -g -o CMakeFiles/kmeans_seq.dir/common.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "output": "src/CMakeFiles/kmeans_seq.dir/common.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/src",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -g -o CMakeFiles/kmeans_seq.dir/kmeans.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans.c",
+  "output": "src/CMakeFiles/kmeans_seq.dir/kmeans.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/src",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -g -o CMakeFiles/kmeans_centroids.dir/main.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/main.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/main.c",
+  "output": "src/CMakeFiles/kmeans_centroids.dir/main.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/src",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -g -o CMakeFiles/kmeans_centroids.dir/common.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "output": "src/CMakeFiles/kmeans_centroids.dir/common.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/src",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler  --options-file CMakeFiles/kmeans_centroids.dir/includes_CUDA.rsp -g -std=c++20 \"--generate-code=arch=compute_89,code=[compute_89,sm_89]\" -x cu -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans_centroids.cu -o CMakeFiles/kmeans_centroids.dir/kmeans_centroids.cu.o",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans_centroids.cu",
+  "output": "src/CMakeFiles/kmeans_centroids.dir/kmeans_centroids.cu.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/src",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -g -o CMakeFiles/kmeans_distances.dir/main.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/main.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/main.c",
+  "output": "src/CMakeFiles/kmeans_distances.dir/main.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/src",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -g -o CMakeFiles/kmeans_distances.dir/common.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "output": "src/CMakeFiles/kmeans_distances.dir/common.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/src",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler  --options-file CMakeFiles/kmeans_distances.dir/includes_CUDA.rsp -g -std=c++20 \"--generate-code=arch=compute_89,code=[compute_89,sm_89]\" -x cu -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans_distances.cu -o CMakeFiles/kmeans_distances.dir/kmeans_distances.cu.o",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans_distances.cu",
+  "output": "src/CMakeFiles/kmeans_distances.dir/kmeans_distances.cu.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/src",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -g -o CMakeFiles/kmeans_full.dir/main.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/main.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/main.c",
+  "output": "src/CMakeFiles/kmeans_full.dir/main.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/src",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -g -o CMakeFiles/kmeans_full.dir/common.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "output": "src/CMakeFiles/kmeans_full.dir/common.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/src",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler  --options-file CMakeFiles/kmeans_full.dir/includes_CUDA.rsp -g -std=c++20 \"--generate-code=arch=compute_89,code=[compute_89,sm_89]\" -x cu -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans_full.cu -o CMakeFiles/kmeans_full.dir/kmeans_full.cu.o",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans_full.cu",
+  "output": "src/CMakeFiles/kmeans_full.dir/kmeans_full.cu.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/test",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest -g -o CMakeFiles/kmeans_test.dir/__/src/kmeans.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans.c",
+  "output": "test/CMakeFiles/kmeans_test.dir/__/src/kmeans.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/test",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest -g -o CMakeFiles/kmeans_test.dir/__/src/common.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "output": "test/CMakeFiles/kmeans_test.dir/__/src/common.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/test",
+  "command": "/usr/bin/g++  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest -O2 -ftree-vectorize -fopt-info-vec-optimized -g -std=gnu++20 -o CMakeFiles/kmeans_test.dir/kmeans_test.cpp.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/test/kmeans_test.cpp",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/test/kmeans_test.cpp",
+  "output": "test/CMakeFiles/kmeans_test.dir/kmeans_test.cpp.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/test",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler  --options-file CMakeFiles/kmeans_centroids_test.dir/includes_CUDA.rsp -g -std=c++20 \"--generate-code=arch=compute_89,code=[compute_89,sm_89]\" -x cu -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans_centroids.cu -o CMakeFiles/kmeans_centroids_test.dir/__/src/kmeans_centroids.cu.o",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans_centroids.cu",
+  "output": "test/CMakeFiles/kmeans_centroids_test.dir/__/src/kmeans_centroids.cu.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/test",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest -g -o CMakeFiles/kmeans_centroids_test.dir/__/src/common.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "output": "test/CMakeFiles/kmeans_centroids_test.dir/__/src/common.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/test",
+  "command": "/usr/bin/g++  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest -O2 -ftree-vectorize -fopt-info-vec-optimized -g -std=gnu++20 -o CMakeFiles/kmeans_centroids_test.dir/kmeans_test.cpp.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/test/kmeans_test.cpp",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/test/kmeans_test.cpp",
+  "output": "test/CMakeFiles/kmeans_centroids_test.dir/kmeans_test.cpp.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/test",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler  --options-file CMakeFiles/kmeans_distances_test.dir/includes_CUDA.rsp -g -std=c++20 \"--generate-code=arch=compute_89,code=[compute_89,sm_89]\" -x cu -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans_distances.cu -o CMakeFiles/kmeans_distances_test.dir/__/src/kmeans_distances.cu.o",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans_distances.cu",
+  "output": "test/CMakeFiles/kmeans_distances_test.dir/__/src/kmeans_distances.cu.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/test",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest -g -o CMakeFiles/kmeans_distances_test.dir/__/src/common.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "output": "test/CMakeFiles/kmeans_distances_test.dir/__/src/common.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/test",
+  "command": "/usr/bin/g++  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest -O2 -ftree-vectorize -fopt-info-vec-optimized -g -std=gnu++20 -o CMakeFiles/kmeans_distances_test.dir/kmeans_test.cpp.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/test/kmeans_test.cpp",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/test/kmeans_test.cpp",
+  "output": "test/CMakeFiles/kmeans_distances_test.dir/kmeans_test.cpp.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/test",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler  --options-file CMakeFiles/kmeans_full_test.dir/includes_CUDA.rsp -g -std=c++20 \"--generate-code=arch=compute_89,code=[compute_89,sm_89]\" -x cu -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans_full.cu -o CMakeFiles/kmeans_full_test.dir/__/src/kmeans_full.cu.o",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans_full.cu",
+  "output": "test/CMakeFiles/kmeans_full_test.dir/__/src/kmeans_full.cu.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/test",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest -g -o CMakeFiles/kmeans_full_test.dir/__/src/common.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "output": "test/CMakeFiles/kmeans_full_test.dir/__/src/common.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/test",
+  "command": "/usr/bin/g++  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest/include -isystem /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/third_party/googletest/googletest -O2 -ftree-vectorize -fopt-info-vec-optimized -g -std=gnu++20 -o CMakeFiles/kmeans_full_test.dir/kmeans_test.cpp.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/test/kmeans_test.cpp",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/test/kmeans_test.cpp",
+  "output": "test/CMakeFiles/kmeans_full_test.dir/kmeans_test.cpp.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/scripts",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src -g -o CMakeFiles/generate_expected.dir/generate_expected.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/scripts/generate_expected.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/scripts/generate_expected.c",
+  "output": "scripts/CMakeFiles/generate_expected.dir/generate_expected.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/scripts",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src -g -o CMakeFiles/generate_expected.dir/__/src/kmeans.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/kmeans.c",
+  "output": "scripts/CMakeFiles/generate_expected.dir/__/src/kmeans.c.o"
+},
+{
+  "directory": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/build/scripts",
+  "command": "/usr/bin/gcc  -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/include -I/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src -g -o CMakeFiles/generate_expected.dir/__/src/common.c.o -c /home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "file": "/home/hugo/NOVA/CAD/cuda-project-assignment-k-means-clustering-algorithm-72690-72692/src/common.c",
+  "output": "scripts/CMakeFiles/generate_expected.dir/__/src/common.c.o"
+}
+]

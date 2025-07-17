@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/generate_expected.dir/generate_expected.c.o CMakeFiles/generate_expected.dir/__/src/kmeans.c.o CMakeFiles/generate_expected.dir/__/src/common.c.o -o generate_expected  -lm 

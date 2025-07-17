@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/kmeans_seq.dir/main.c.o CMakeFiles/kmeans_seq.dir/common.c.o CMakeFiles/kmeans_seq.dir/kmeans.c.o -o kmeans_seq  -lm 
